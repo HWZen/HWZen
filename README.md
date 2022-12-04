@@ -16,20 +16,18 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWZen)](https://github.com/HWZen/github-readme-stats)
-> That is not objective because css, js and html is **long on rhetoric, short on details**. In fact, my favorite language is c++.
 
 </br>
 </br>
 
 ## Develop Env
 ### OS
-- Windows 10
-- Raspberry pie
-- Jetson Nano
+- Windows 10/11
+- Ubuntu 20.04/22.04
 
 ### Platform
-- windows 10
-- Ubuntu 20.04 for wsl
+- x86-64
+- arm
 
 ### Cpp Standard
 - c++11 to c++20, main in c++20.
@@ -37,18 +35,11 @@
 ### Cpp Compiler
 - MSVC 19.32.32332 (VC v142)
 - gcc 13.0.0
-- clang 15.0.0
 
 ### IDE
 - Clion (favorite)
 - VSCode
 - VS
-
-## Python Env
-- Anaconda
-
-## Java Env
-- 1.8.0
 
 ## Reach Me
 - QQ: 1041453977
