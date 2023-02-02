@@ -8,7 +8,7 @@
 ## About me
 - 🌱 Studied in [NBUT](https://www.nbut.edu.cn/)
 
-- 🔭 Internship at [Juphoon System Softward, Inc](https://www.juphoon.com/)
+- 🔭 looking for a job
 
 - Active in Ningbo, China
 
