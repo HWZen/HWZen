@@ -6,11 +6,9 @@
 </br>
 
 ## About me
-- 🌱 Studied in [NBUT](https://www.nbut.edu.cn/)
+- 🔭 Working for development base Windows system.
 
-- 🔭 looking for a job
-
-- Active in Ningbo, China
+- Active in Shenzhen, China
 
 </br>
 </br>
@@ -22,8 +20,7 @@
 
 ## Develop Env
 ### OS
-- Windows 10/11
-- Ubuntu 20.04/22.04
+- Windows 11
 
 ### Platform
 - x86-64
@@ -32,10 +29,6 @@
 ### Cpp Standard
 - c++11 to c++20, main in c++20.
 
-### Cpp Compiler
-- MSVC 19.32.32332 (VC v142)
-- gcc 13.0.0
-
 ### IDE
 - Clion (favorite)
 - VSCode
@@ -43,8 +36,6 @@
 
 ## Reach Me
 - QQ: 1041453977
-- gmail: hwza041453977@gmail.com
-- gitee: [gitee.com/HWZen](https://gitee.com/HWZen)
 
 <!--
 **HWZen/HWZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
