@@ -35,7 +35,7 @@
 - VS
 
 ## Reach Me
-- QQ: 1041453977
+- email: 1041453977@qq.com
 
 <!--
 **HWZen/HWZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
